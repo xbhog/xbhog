@@ -5,6 +5,7 @@ Welcome to my page!
 座右铭：所有的优越感自缺于见识和敬畏
 
 Motto: All superiority lacks insight and awe
+
 ![](https://img.shields.io/badge/Java-1.8-orange?style=for-the-badge&logo=Java&logoColor=orange)
 ![](https://img.shields.io/badge/SpringBoot-blue?style=for-the-badge&logo=Springboot&logoColor=blue)
 ![](https://img.shields.io/badge/SpringCloud-Lavender?style=for-the-badge&logo=SpringCloud&logoColor=Lavender)
